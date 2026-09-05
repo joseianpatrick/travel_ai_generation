@@ -1,9 +1,9 @@
 import 'dart:math' as math;
 
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/auth/auth_store.dart';
-import 'package:base_project/shared/widgets/primary_button.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
+import 'package:kalsada/shared/widgets/primary_button.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

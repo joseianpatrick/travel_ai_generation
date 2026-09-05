@@ -1,9 +1,9 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:base_project/data/repository/repository.dart';
-import 'package:base_project/data/supabase/supabase_config.dart';
-import 'package:base_project/data/trip.dart';
+import 'package:kalsada/data/repository/repository.dart';
+import 'package:kalsada/data/supabase/supabase_config.dart';
+import 'package:kalsada/data/trip.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 String _generateTripId() {

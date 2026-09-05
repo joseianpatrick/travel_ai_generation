@@ -1,8 +1,8 @@
 import 'dart:async';
 import 'dart:convert';
 
-import 'package:base_project/data/local/connectivity_service.dart';
-import 'package:base_project/data/repository/repository.dart';
+import 'package:kalsada/data/local/connectivity_service.dart';
+import 'package:kalsada/data/repository/repository.dart';
 
 /// A queued offline write, decoupled from drift's generated row class so
 /// this decorator's public surface doesn't leak the local persistence

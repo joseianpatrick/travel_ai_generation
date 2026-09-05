@@ -1,14 +1,14 @@
 import 'dart:async';
 
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/planner/kalsada_catalog.dart';
-import 'package:base_project/features/planner/planner_store.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
-import 'package:base_project/features/planner/widgets/trip_options_sheet.dart';
-import 'package:base_project/features/trips/trips_store.dart';
-import 'package:base_project/shared/widgets/primary_button.dart';
-import 'package:base_project/shared/widgets/theme_toggle_button.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/planner/kalsada_catalog.dart';
+import 'package:kalsada/features/planner/planner_store.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/features/planner/widgets/trip_options_sheet.dart';
+import 'package:kalsada/features/trips/trips_store.dart';
+import 'package:kalsada/shared/widgets/primary_button.dart';
+import 'package:kalsada/shared/widgets/theme_toggle_button.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:genui/genui.dart';

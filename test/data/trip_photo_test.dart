@@ -1,4 +1,4 @@
-import 'package:base_project/data/trip_photo.dart';
+import 'package:kalsada/data/trip_photo.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

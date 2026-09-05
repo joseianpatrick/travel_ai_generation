@@ -1,7 +1,7 @@
-import 'package:base_project/data/sample_trips.dart';
-import 'package:base_project/features/planner/plan_trip_service.dart';
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/data/sample_trips.dart';
+import 'package:kalsada/features/planner/plan_trip_service.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

@@ -1,6 +1,6 @@
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/shared/utils/external_maps.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/shared/utils/external_maps.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 
 /// What the sheet needs to render, independent of whether it came from a

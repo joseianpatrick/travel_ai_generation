@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:base_project/data/repository/repository.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/data/trip_photo.dart';
-import 'package:base_project/features/auth/auth_store.dart';
-import 'package:base_project/features/photos/photo_upload_service.dart';
+import 'package:kalsada/data/repository/repository.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/data/trip_photo.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
+import 'package:kalsada/features/photos/photo_upload_service.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:mobx/mobx.dart';
 

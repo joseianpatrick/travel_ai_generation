@@ -1,5 +1,5 @@
-import 'package:base_project/data/repository/auth_repository.dart';
-import 'package:base_project/features/auth/auth_store.dart';
+import 'package:kalsada/data/repository/auth_repository.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../fakes/fake_auth_repository.dart';

@@ -1,4 +1,4 @@
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 
 /// 36pt circular filled icon button used in every screen header.

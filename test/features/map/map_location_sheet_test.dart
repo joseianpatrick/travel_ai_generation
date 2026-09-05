@@ -1,4 +1,4 @@
-import 'package:base_project/shared/utils/external_maps.dart';
+import 'package:kalsada/shared/utils/external_maps.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 

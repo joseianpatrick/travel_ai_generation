@@ -1,6 +1,6 @@
-import 'package:base_project/data/local/caching_repository.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/data/trip_photo.dart';
+import 'package:kalsada/data/local/caching_repository.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/data/trip_photo.dart';
 
 /// Fans a sign-out event out to every offline cache that needs wiping, so a
 /// shared device doesn't leave one account's cached rows/outbox queryable

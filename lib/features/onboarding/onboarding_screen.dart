@@ -1,6 +1,6 @@
-import 'package:base_project/shared/widgets/primary_button.dart';
-import 'package:base_project/shared/widgets/trip_photo_banner.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/shared/widgets/primary_button.dart';
+import 'package:kalsada/shared/widgets/trip_photo_banner.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

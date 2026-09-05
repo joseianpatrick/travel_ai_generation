@@ -1,10 +1,10 @@
-import 'package:base_project/data/local/tile_cache.dart';
-import 'package:base_project/data/supabase/supabase_config.dart';
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/auth/auth_store.dart';
-import 'package:base_project/router/app_router.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
-import 'package:base_project/theme/theme_store.dart';
+import 'package:kalsada/data/local/tile_cache.dart';
+import 'package:kalsada/data/supabase/supabase_config.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
+import 'package:kalsada/router/app_router.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
+import 'package:kalsada/theme/theme_store.dart';
 import 'package:dio_cache_interceptor_hive_store/dio_cache_interceptor_hive_store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';

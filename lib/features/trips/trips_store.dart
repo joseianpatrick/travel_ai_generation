@@ -1,8 +1,8 @@
 import 'dart:async';
 
-import 'package:base_project/data/repository/repository.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/features/auth/auth_store.dart';
+import 'package:kalsada/data/repository/repository.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
 import 'package:mobx/mobx.dart';
 
 part 'trips_store.g.dart';

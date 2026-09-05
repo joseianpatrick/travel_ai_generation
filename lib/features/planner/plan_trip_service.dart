@@ -1,9 +1,9 @@
 import 'dart:developer' as developer;
 
-import 'package:base_project/data/local/connectivity_service.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/data/local/connectivity_service.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 /// Low-level seam over the edge-function call, so tests can bypass Supabase.

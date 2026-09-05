@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

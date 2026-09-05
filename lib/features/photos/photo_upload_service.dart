@@ -1,4 +1,4 @@
-import 'package:base_project/data/supabase/supabase_config.dart';
+import 'package:kalsada/data/supabase/supabase_config.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 

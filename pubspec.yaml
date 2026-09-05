@@ -1,4 +1,4 @@
-name: base_project
+name: kalsada
 description: "Kalsada — AI-assisted group travel planner."
 publish_to: "none"
 version: 0.1.0+1

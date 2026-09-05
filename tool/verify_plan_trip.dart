@@ -11,9 +11,9 @@ import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:base_project/data/sample_trips.dart';
-import 'package:base_project/data/supabase/supabase_config.dart';
-import 'package:base_project/data/trip.dart';
+import 'package:kalsada/data/sample_trips.dart';
+import 'package:kalsada/data/supabase/supabase_config.dart';
+import 'package:kalsada/data/trip.dart';
 
 final HttpClient _http = HttpClient();
 

@@ -1,12 +1,12 @@
 import 'dart:io';
 
-import 'package:base_project/data/trip_photo.dart';
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/photos/photos_store.dart';
-import 'package:base_project/features/trips/trips_store.dart';
-import 'package:base_project/shared/widgets/circle_icon_button.dart';
-import 'package:base_project/shared/widgets/photo_viewer_dialog.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/data/trip_photo.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/photos/photos_store.dart';
+import 'package:kalsada/features/trips/trips_store.dart';
+import 'package:kalsada/shared/widgets/circle_icon_button.dart';
+import 'package:kalsada/shared/widgets/photo_viewer_dialog.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';

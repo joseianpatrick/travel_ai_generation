@@ -1,8 +1,8 @@
 import 'dart:io';
 
-import 'package:base_project/data/trip_photo.dart';
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/photos/photos_store.dart';
+import 'package:kalsada/data/trip_photo.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/photos/photos_store.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';

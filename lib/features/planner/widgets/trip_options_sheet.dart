@@ -1,7 +1,7 @@
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/shared/widgets/number_stepper.dart';
-import 'package:base_project/shared/widgets/primary_button.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/shared/widgets/number_stepper.dart';
+import 'package:kalsada/shared/widgets/primary_button.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 
 /// Opens the trip-options sheet, returning the edited [PlannerOptions] or null

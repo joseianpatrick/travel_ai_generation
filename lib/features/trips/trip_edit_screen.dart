@@ -1,10 +1,10 @@
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/trips/trip_edit_store.dart';
-import 'package:base_project/features/trips/trips_store.dart';
-import 'package:base_project/shared/widgets/circle_icon_button.dart';
-import 'package:base_project/shared/widgets/number_stepper.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/trips/trip_edit_store.dart';
+import 'package:kalsada/features/trips/trips_store.dart';
+import 'package:kalsada/shared/widgets/circle_icon_button.dart';
+import 'package:kalsada/shared/widgets/number_stepper.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 import 'package:go_router/go_router.dart';

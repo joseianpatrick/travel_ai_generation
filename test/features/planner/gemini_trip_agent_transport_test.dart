@@ -1,9 +1,9 @@
 import 'package:a2ui_core/a2ui_core.dart' as core;
-import 'package:base_project/data/sample_trips.dart';
-import 'package:base_project/features/planner/gemini_trip_agent_transport.dart';
-import 'package:base_project/features/planner/plan_trip_service.dart';
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/data/sample_trips.dart';
+import 'package:kalsada/features/planner/gemini_trip_agent_transport.dart';
+import 'package:kalsada/features/planner/plan_trip_service.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:genui/genui.dart';
 

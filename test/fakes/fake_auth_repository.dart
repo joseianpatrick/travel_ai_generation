@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:base_project/data/repository/auth_repository.dart';
+import 'package:kalsada/data/repository/auth_repository.dart';
 
 /// Scriptable in-memory [AuthRepository] for tests.
 class FakeAuthRepository implements AuthRepository {

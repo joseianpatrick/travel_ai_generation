@@ -1,4 +1,4 @@
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 
 /// The app's full-width accent CTA: a solid electric-blue pill with an

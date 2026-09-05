@@ -1,6 +1,6 @@
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/features/planner/widgets/trip_options_sheet.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/widgets/trip_options_sheet.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

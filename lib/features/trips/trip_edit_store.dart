@@ -1,7 +1,7 @@
-import 'package:base_project/data/repository/repository.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/features/planner/plan_trip_service.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/data/repository/repository.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/features/planner/plan_trip_service.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
 import 'package:mobx/mobx.dart';
 
 part 'trip_edit_store.g.dart';

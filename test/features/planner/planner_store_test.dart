@@ -1,8 +1,8 @@
-import 'package:base_project/data/sample_trips.dart';
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/features/auth/auth_store.dart';
-import 'package:base_project/features/planner/planner_options.dart';
-import 'package:base_project/features/planner/planner_store.dart';
+import 'package:kalsada/data/sample_trips.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/features/auth/auth_store.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/planner_store.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import '../../fakes/fake_auth_repository.dart';

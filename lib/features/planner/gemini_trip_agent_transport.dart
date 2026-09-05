@@ -1,5 +1,5 @@
-import 'package:base_project/features/planner/plan_trip_service.dart';
-import 'package:base_project/features/planner/trip_agent_transport.dart';
+import 'package:kalsada/features/planner/plan_trip_service.dart';
+import 'package:kalsada/features/planner/trip_agent_transport.dart';
 import 'package:genui/genui.dart';
 
 /// The trip agent backed by Gemini via the `plan-trip` Supabase Edge Function.

@@ -1,4 +1,4 @@
-import 'package:base_project/features/planner/planner_options.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

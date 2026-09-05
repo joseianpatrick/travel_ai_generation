@@ -1,5 +1,5 @@
-import 'package:base_project/data/trip_photo.dart';
-import 'package:base_project/features/photos/photos_repository.dart';
+import 'package:kalsada/data/trip_photo.dart';
+import 'package:kalsada/features/photos/photos_repository.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 TripPhoto _photo({String id = ''}) => TripPhoto(

@@ -1,4 +1,4 @@
-import 'package:base_project/data/trip.dart';
+import 'package:kalsada/data/trip.dart';
 
 /// Canned trip content used to seed the local repository and by the
 /// simulated GenUI trip agent until a real model endpoint is connected.

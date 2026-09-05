@@ -1,13 +1,13 @@
 import 'dart:async';
 
 import 'package:async/async.dart' show StreamQueue;
-import 'package:base_project/data/local/app_database.dart';
-import 'package:base_project/data/local/caching_repository.dart';
-import 'package:base_project/data/local/caching_trips_repository.dart';
-import 'package:base_project/data/local/connectivity_service.dart';
-import 'package:base_project/data/repository/repository.dart';
-import 'package:base_project/data/sample_trips.dart';
-import 'package:base_project/data/trip.dart';
+import 'package:kalsada/data/local/app_database.dart';
+import 'package:kalsada/data/local/caching_repository.dart';
+import 'package:kalsada/data/local/caching_trips_repository.dart';
+import 'package:kalsada/data/local/connectivity_service.dart';
+import 'package:kalsada/data/repository/repository.dart';
+import 'package:kalsada/data/sample_trips.dart';
+import 'package:kalsada/data/trip.dart';
 import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
 

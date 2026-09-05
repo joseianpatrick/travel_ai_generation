@@ -1,6 +1,6 @@
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/features/trips/trips_store.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/features/trips/trips_store.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 

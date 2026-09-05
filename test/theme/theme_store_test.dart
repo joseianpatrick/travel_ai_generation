@@ -1,4 +1,4 @@
-import 'package:base_project/theme/theme_store.dart';
+import 'package:kalsada/theme/theme_store.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

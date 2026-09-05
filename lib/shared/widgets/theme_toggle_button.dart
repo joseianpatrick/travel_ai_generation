@@ -1,6 +1,6 @@
-import 'package:base_project/dependency/dependency_manager.dart';
-import 'package:base_project/shared/widgets/circle_icon_button.dart';
-import 'package:base_project/theme/theme_store.dart';
+import 'package:kalsada/dependency/dependency_manager.dart';
+import 'package:kalsada/shared/widgets/circle_icon_button.dart';
+import 'package:kalsada/theme/theme_store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 

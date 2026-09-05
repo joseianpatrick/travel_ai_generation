@@ -1,5 +1,5 @@
-import 'package:base_project/features/onboarding/onboarding_screen.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/features/onboarding/onboarding_screen.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 

@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:developer' as developer;
 
-import 'package:base_project/data/repository/auth_repository.dart';
+import 'package:kalsada/data/repository/auth_repository.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
 
 /// Supabase-backed email/password authentication.

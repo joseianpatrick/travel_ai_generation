@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:a2ui_core/a2ui_core.dart' as core;
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/features/planner/kalsada_catalog.dart';
-import 'package:base_project/features/planner/planner_options.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/features/planner/kalsada_catalog.dart';
+import 'package:kalsada/features/planner/planner_options.dart';
 import 'package:genui/genui.dart';
 import 'package:meta/meta.dart';
 

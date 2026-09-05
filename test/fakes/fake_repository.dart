@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:base_project/data/repository/repository.dart';
+import 'package:kalsada/data/repository/repository.dart';
 
 /// In-memory [Repository] fake with deterministic ids for tests.
 class FakeRepository<T> implements Repository<T> {

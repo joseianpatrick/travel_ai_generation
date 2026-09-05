@@ -1,5 +1,5 @@
-import 'package:base_project/data/trip.dart';
-import 'package:base_project/theme/kalsada_theme.dart';
+import 'package:kalsada/data/trip.dart';
+import 'package:kalsada/theme/kalsada_theme.dart';
 import 'package:flutter/material.dart';
 
 /// Horizontally scrollable "Day N" selector chips, shared by the itinerary

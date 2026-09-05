@@ -1,4 +1,4 @@
-import 'package:base_project/features/photos/photo_upload_service.dart';
+import 'package:kalsada/features/photos/photo_upload_service.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {

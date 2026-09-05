@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:base_project/data/local/app_database.dart';
-import 'package:base_project/data/local/caching_repository.dart';
-import 'package:base_project/data/trip.dart';
+import 'package:kalsada/data/local/app_database.dart';
+import 'package:kalsada/data/local/caching_repository.dart';
+import 'package:kalsada/data/trip.dart';
 
 /// Binds [CachingRepository]'s generic callbacks to [Trip] and the
 /// [AppDatabase]'s `CachedTrips` table.
