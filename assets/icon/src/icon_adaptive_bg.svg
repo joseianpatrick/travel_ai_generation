@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="490" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#002454"/>
+      <stop offset="0.55" stop-color="#0052AF"/>
+      <stop offset="1" stop-color="#2B7FDE"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="490" x2="0" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4C7B63"/>
+      <stop offset="1" stop-color="#203B2C"/>
+    </linearGradient>
+    <linearGradient id="asphalt" x1="0" y1="490" x2="0" y2="1024" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#39424E"/>
+      <stop offset="0.4" stop-color="#232932"/>
+      <stop offset="1" stop-color="#161A20"/>
+    </linearGradient>
+    <linearGradient id="haze" x1="0" y1="390" x2="0" y2="590" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CFEFDD" stop-opacity="0"/>
+      <stop offset="0.62" stop-color="#DFF6E8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#CFEFDD" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="512" cy="415" r="190" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#DFF6E8" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#BEEAD1" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#BEEAD1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sun" cx="512" cy="393" r="76" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="0.6" stop-color="#E8F9EF"/>
+      <stop offset="1" stop-color="#BEEAD1"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1024" height="1024" fill="url(#sky)"/>
+  <rect y="490" width="1024" height="534" fill="url(#ground)"/>
+  <rect y="390" width="1024" height="200" fill="url(#haze)"/>
+  <circle cx="512" cy="415" r="190" fill="url(#halo)"/>
+
+  <path d="M 302 1024 C 356.5 833 455.8 619 481.8 490 L 542.2 490 C 568.2 619 667.5 833 722 1024 Z" fill="url(#asphalt)"/>
+
+  <g fill="#F2F5FA">
+    <rect x="496.9" y="941.2" width="30.2" height="73.3" rx="13"/>
+    <rect x="500.1" y="812" width="23.8" height="60.7" rx="11"/>
+    <rect x="502.6" y="706" width="18.7" height="50.1" rx="8.5"/>
+    <rect x="505.2" y="623" width="13.7" height="39.5" rx="6.5"/>
+    <rect x="507.3" y="564.2" width="9.4" height="29.9" rx="4.5"/>
+    <rect x="508.8" y="523.7" width="6.5" height="21.2" rx="3"/>
+  </g>
+
+  <circle cx="512" cy="405" r="66" fill="url(#sun)"/>
+</svg>

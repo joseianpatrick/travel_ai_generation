@@ -44,6 +44,23 @@ dev_dependencies:
   freezed: ^3.1.0
   drift_dev: ^2.34.0
   async: ^2.13.0
+  flutter_launcher_icons: ^0.14.4
+
+# Launcher icon generation. Source art lives in assets/icon/src/*.svg; the PNGs
+# beside it are renders of those. Regenerate with:
+#   dart run flutter_launcher_icons
+#
+# Android adaptive icons crop to the centre ~66%, so the adaptive background is
+# a separate composition of the same scene with the horizon, sun and road pulled
+# inward to survive that crop. The foreground layer is intentionally transparent
+# — the scene reads as one image rather than a subject floating on a backdrop.
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/icon.png"
+  adaptive_icon_background: "assets/icon/icon_adaptive_bg.png"
+  adaptive_icon_foreground: "assets/icon/icon_adaptive_fg.png"
+  min_sdk_android: 21
 
 flutter:
   uses-material-design: true
